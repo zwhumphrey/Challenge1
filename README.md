@@ -7,6 +7,9 @@ I was given this project to increase functionality and user interface.  I was dr
 
 ## Technologies
   
+  -HTML
+  -CSS
+  
 ## Link
   
   live- https://zwhumphrey.github.io/Challenge1/
